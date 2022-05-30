@@ -3,6 +3,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "Launch PortfolioApplication",
+      "request": "launch",
+      "mainClass": "EmilianoBade.Portfolio.PortfolioApplication",
+      "projectName": "Portfolio"
+    },
+    {
       "name": "ng serve",
       "type": "pwa-chrome",
       "request": "launch",
